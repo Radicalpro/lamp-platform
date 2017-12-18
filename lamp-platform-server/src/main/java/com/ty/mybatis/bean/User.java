@@ -1,4 +1,4 @@
-package com.ty.demo.bean;
+package com.ty.mybatis.bean;
 
 import lombok.Data;
 

@@ -1,4 +1,4 @@
-package com.ty.demo.bean;
+package com.ty.mybatis.bean;
 
 import java.util.ArrayList;
 import java.util.List;

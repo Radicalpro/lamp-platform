@@ -1,7 +1,7 @@
-package com.ty.demo.mapper;
+package com.ty.mybatis.mapper;
 
-import com.ty.demo.bean.User;
-import com.ty.demo.bean.UserExample;
+import com.ty.mybatis.bean.User;
+import com.ty.mybatis.bean.UserExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 import org.springframework.stereotype.Repository;
