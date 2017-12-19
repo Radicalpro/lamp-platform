@@ -28,6 +28,7 @@ public class UserController {
     @RequestMapping("/selectByPrimaryKey")
     public User selectByPrimaryKey() {
         log.info("日志打印");
+///        Integer.parseInt("a");
         return userMapper.selectByPrimaryKey(1);
     }
 }
